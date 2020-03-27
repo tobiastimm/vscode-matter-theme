@@ -9,7 +9,7 @@
 
 [**matter**](https://tobiastimm.github.io/matter/) is a a theme inspired by Tron, SpaceGray and Raiju.
 
-![Screenshot](https://raw.githubusercontent.com/tobiastimm/matter/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/tobiastimm/vscode-matter-theme/master/screenshot.png)
 
 _Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_
 
@@ -29,7 +29,7 @@ Select the theme and you are ready to go!
 
 Do you like the theme? Don't hesitate to share your thoughts!
 
-Let me know, if you'd like to see any specific synytax added by creating a [Github issue](https://github.com/tobiastimm/matter/issues).
+Let me know, if you'd like to see any specific synytax added by creating a [Github issue](https://github.com/tobiastimm/vscode-matter-theme/issues).
 
 ## Author
 

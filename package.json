@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tobiastimm/matter.git"
+    "url": "https://github.com/tobiastimm/vscode-matter-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/tobiastimm/matter/issues"
+    "url": "https://github.com/tobiastimm/vscode-matter-theme/issues"
   },
   "categories": [
     "Themes"
@@ -37,5 +37,10 @@
         "path": "./themes/matter.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "6638fda2-bad9-40a6-b67a-3fe0860b1146",
+    "publisherDisplayName": "Tobias Timm",
+    "publisherId": "5e0244e1-b94f-4e44-8cdc-1397334a044f"
   }
 }
