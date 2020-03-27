@@ -9,9 +9,9 @@
 
 [**matter**](https://tobiastimm.github.io/matter/) is a a theme inspired by Tron, SpaceGray and Raiju.
 
-<!-- ![Screenshot](https://raw.githubusercontent.com/tobiastimm/matter/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/tobiastimm/matter/master/screenshot.png)
 
-_Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_ -->
+_Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_
 
 ## Usage
 
