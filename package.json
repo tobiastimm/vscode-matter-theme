@@ -5,7 +5,7 @@
   "license": "MIT",
   "version": "1.0.1",
   "publisher": "TobiasTimm",
-  "preview": false,
+  "preview": true,
   "engines": {
     "vscode": "^1.22.0"
   },

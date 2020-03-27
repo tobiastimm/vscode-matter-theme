@@ -9,9 +9,9 @@
 
 [**matter**](https://tobiastimm.github.io/matter/) is a a theme inspired by Tron, SpaceGray and Raiju.
 
-![Screenshot](https://raw.githubusercontent.com/tobiastimm/matter/master/screenshot.png)
+<!-- ![Screenshot](https://raw.githubusercontent.com/tobiastimm/matter/master/screenshot.png)
 
-_Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_
+_Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_ -->
 
 ## Usage
 
@@ -38,8 +38,8 @@ Let me know, if you'd like to see any specific synytax added by creating a [Gith
 ## My other themes
 
 - [**Raiju**](https://github.com/tobiastimm/raiju/)
+- [**Pandju**](https://github.com/tobiastimm/pandju/)
 - [**SubliminalR**](https://github.com/tobiastimm/subliminalr/)
-- [**Sceanic**](https://github.com/tobiastimm/sceanic/)
 - [**Duotoned**](https://github.com/tobiastimm/duotoned/)
 
 ## License
