@@ -1,0 +1,41 @@
+{
+  "name": "matter",
+  "displayName": "Matter",
+  "description": "A theme inspired by Tron, SpaceGray and Raiju. Nothing else matters",
+  "license": "MIT",
+  "version": "1.0.1",
+  "publisher": "TobiasTimm",
+  "preview": false,
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "keywords": [
+    "theme",
+    "blue",
+    "raiju",
+    "dark",
+    "matter"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobiastimm/matter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tobiastimm/matter/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matter.json"
+      }
+    ]
+  }
+}
