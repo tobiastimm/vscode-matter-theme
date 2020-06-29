@@ -7,7 +7,7 @@
 
 </div>
 
-[**matter**](https://tobiastimm.github.io/matter/) is a a theme inspired by Tron, SpaceGray and Raiju.
+[**matter**](https://tobiastimm.github.io/matter/) is a theme inspired by Tron, SpaceGray and Raiju.
 
 ![Screenshot](https://raw.githubusercontent.com/tobiastimm/vscode-matter-theme/master/screenshot.png)
 
